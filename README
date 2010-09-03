@@ -1,0 +1,3 @@
+
+urls.py and views.py contain code that can be run in a django project to host a notifo webhook
+
